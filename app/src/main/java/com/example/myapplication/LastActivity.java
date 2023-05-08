@@ -175,7 +175,7 @@ public class LastActivity extends AppCompatActivity {
             B4.occupancy += 0.5;
         }
 
-        
+
         final String[] vivod = new String[]{
                 "Вероятность недостаточности   " + A.name + " ~ " + ramki((int) round((100 * A.occupancy))) + "%",
                 "Вероятность недостаточности  " + B1.name + " ~ " + ramki((int) round((100 * B1.occupancy))) + "%",

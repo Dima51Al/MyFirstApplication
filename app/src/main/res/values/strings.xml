@@ -2,7 +2,7 @@
     <string name="app_name">Vita</string>
     <string name="btn_start">Старт</string>
     <string name="btn_y">Да</string>
-    <string name="first_question">Да?</string>
+    <string name="first_question">Приложение носит рекомендательный характер, для продолжения нажмите на любую кнопку</string>
     <string name="btn_n">Нет</string>
     <string name="btn_p">Пропустить</string>
 
